@@ -8,6 +8,7 @@ Este projeto demonstra como criar um banco de dados NoSQL usando o MongoDB e rea
 ## Pré-requisitos
 
 - [Python](https://www.python.org/) instalado.
+- [SqlAlchemy](https://www.sqlalchemy.org/) instalado.
 - [PyMongo](https://pypi.org/project/pymongo/) instalado.
 - Uma conta no [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) configurada.
 
